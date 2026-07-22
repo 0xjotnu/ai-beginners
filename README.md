@@ -1,61 +1,69 @@
-# 🧭 Prompting Claude Well
+# AI for Beginners
 
-A practical, example-driven guide to getting great results out of Claude — for beginners and for people who already prompt a lot but want to level up.
+Practical AI literacy for people who want to use, understand, and build with modern AI — without needing a computer-science degree.
 
-> This isn't a reference manual. It's a set of habits, patterns, and before/after examples you can steal.
+This repository is a hands-on learning path. Start with the basics, learn to communicate effectively with AI, then explore coding assistants, agents, creative tools, and automations. The original Claude prompting guide is preserved as the first complete module and its advice has been framed to work across leading AI tools.
 
----
-
-## Why this exists
-
-Most "prompt engineering" advice is either too abstract ("be clear!") or too narrow (one trick for one use case). This repo tries to sit in between: a small number of durable principles, each backed by a real before/after example you can compare side by side.
+> **Status:** The foundation is in place. New lessons are being added module by module. Contributions are welcome.
 
 ## Who this is for
 
-- People who want to use Claude daily and want more consistent, higher-quality output
-- Developers building on the Claude API who want prompts that hold up in production
-- Teams writing internal prompt templates and want a shared vocabulary
+- Curious beginners who want a clear, practical introduction to AI
+- Students and professionals looking for useful everyday workflows
+- Creators who want to work with text, images, audio, or video AI
+- Developers taking their first steps with AI-assisted coding and APIs
 
-## How to use this repo
+## Start here
 
-Read the docs in order if you're new — each one builds on the last. If you already know the basics, jump straight to whichever topic you're stuck on, or browse `examples/` for copy-paste starting points.
+Read [START-HERE.md](START-HERE.md) first. It explains how to use this repository, choose tools safely, and select a learning path.
 
-## 📚 Contents
+## Learning path
 
-| Doc | What it covers |
-|---|---|
-| [`docs/01-basics.md`](docs/01-basics.md) | The foundation: clarity, specificity, and giving Claude enough context |
-| [`docs/02-structure-and-xml.md`](docs/02-structure-and-xml.md) | Using XML tags and structure to organize complex prompts |
-| [`docs/03-examples-and-few-shot.md`](docs/03-examples-and-few-shot.md) | Teaching Claude your format and style through examples |
-| [`docs/04-chain-of-thought.md`](docs/04-chain-of-thought.md) | Getting better reasoning by asking Claude to think step by step |
-| [`docs/05-common-mistakes.md`](docs/05-common-mistakes.md) | The patterns that quietly ruin otherwise-good prompts |
+| Module | What you will learn | Status |
+| --- | --- | --- |
+| [01 · AI foundations](01-ai-foundations/README.md) | What AI and LLMs do, where they fail, and how to use them responsibly | Started |
+| [02 · AI tools](02-ai-tools/README.md) | How to choose chat, research, coding, and creative tools for a task | Started |
+| [03 · Prompting](03-prompt-engineering/README.md) | Clear instructions, examples, structure, and iteration | Ready |
+| 04 · AI coding | Working with coding assistants, testing, and debugging | Planned |
+| 05 · Agents and MCP | Tools, workflows, memory, and human oversight | Planned |
+| 06 · Images, video, and audio | Creating and evaluating multimodal work | Planned |
+| 07 · Automation | Connecting repeatable work safely | Planned |
+| 08 · Projects | Small, real projects that combine the skills | Planned |
 
-## 🧪 Worked examples
+## A suggested first week
 
-| Example | Task |
-|---|---|
-| [`examples/email-drafting.md`](examples/email-drafting.md) | Turning a vague ask into consistently well-toned emails |
-| [`examples/code-review.md`](examples/code-review.md) | Getting focused, actionable code review instead of generic comments |
-| [`examples/data-extraction.md`](examples/data-extraction.md) | Reliable structured data extraction from messy text |
+1. Read [What is AI?](01-ai-foundations/01-what-is-ai.md).
+2. Read [How language models work](01-ai-foundations/02-how-llms-work.md).
+3. Use [the tool guide](02-ai-tools/README.md) to pick one tool for a real task.
+4. Complete the five lessons in [Prompting](03-prompt-engineering/README.md).
+5. Try one of the worked [examples](examples/).
 
-## The short version
+## Repository map
 
-If you only remember five things:
+```text
+01-ai-foundations/       Core concepts and responsible use
+02-ai-tools/             Choosing and using AI tools
+03-prompt-engineering/   Prompting pathway and preserved original lessons
+docs/                    Original in-depth prompting lessons
+examples/                Reusable before/after prompt examples
+templates/               Starting templates for prompts and projects
+resources/               Curated learning resources (coming soon)
+```
 
-1. **Be specific about the outcome, not just the task.** "Write a summary" is a task. "Write a 3-sentence summary a busy exec can skim in 10 seconds" is an outcome.
-2. **Show, don't just tell.** One good example of the output you want is worth several sentences of description.
-3. **Give Claude room to think before it answers**, especially for anything involving judgment, math, or multi-step reasoning.
-4. **Structure long or multi-part prompts** with headers or XML tags so nothing gets lost.
-5. **Iterate.** Your first prompt is a draft. Look at what came back, figure out what's missing or wrong, and fix the prompt — not just the output.
+See [ROADMAP.md](ROADMAP.md) for the next modules and contribution priorities.
 
-## Further reading
+## Principles
 
-For the official, continuously updated reference: [Anthropic's prompt engineering documentation](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview).
+- **Practical first.** Every idea should help you do something useful.
+- **Tool-aware, not tool-locked.** Learn durable concepts before vendor-specific features.
+- **Verify important work.** AI can be fluent and wrong; check facts, calculations, sources, and code.
+- **Protect private information.** Do not paste sensitive personal, company, or customer data into a tool unless you are allowed to do so.
+- **Build judgment, not dependence.** AI is a collaborator and accelerator, not an authority.
 
 ## Contributing
 
-Found a pattern that consistently works (or fails)? Open a PR with a before/after example — that's the most useful unit of content here.
+The most valuable contributions are clear lessons, realistic exercises, and before/after examples. Please keep content beginner-friendly, model-agnostic where possible, and explicit about limitations or safety concerns.
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE).
+MIT — see [LICENSE](LICENSE).
