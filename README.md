@@ -12,7 +12,7 @@ Most "prompt engineering" advice is either too abstract ("be clear!") or too nar
 
 ## Who this is for
 
-- People who use Claude daily and want more consistent, higher-quality output
+- People who want to use Claude daily and want more consistent, higher-quality output
 - Developers building on the Claude API who want prompts that hold up in production
 - Teams writing internal prompt templates and want a shared vocabulary
 
