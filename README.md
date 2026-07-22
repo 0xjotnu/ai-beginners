@@ -8,7 +8,7 @@ Welcome to the ultimate hands‑on guide for **coding with AI assistants** like 
 
 ## 📖 What You'll Find
 
-- **Flashy, emoji‑rich tutorials** that make learning fun and memorable  
+- **Short and sweet guides** that make the guide easy to complete.
 - **Step‑by‑step walkthroughs** for real‑world coding tasks  
 - **Prompt engineering patterns** that work across models  
 - **Best practices** for prompting, debugging, and iterating with AI  
