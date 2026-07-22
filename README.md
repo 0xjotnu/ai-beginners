@@ -10,6 +10,7 @@ Practical AI skills for curious people — no computer-science degree required.
 ![Learn by doing](https://img.shields.io/badge/approach-learn%20by%20doing-06b6d4?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Status](https://img.shields.io/badge/status-growing-f59e0b?style=for-the-badge&logo=seedling&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![CONTRIBUTIONS](https://img.shields.io/badge/CONTRIBUTIONS-WELCOME-brightgreen?style=for-the-badge)
 
 [✨ Start learning](START-HERE.md) · [🗺️ View roadmap](ROADMAP.md) · [🧰 Browse templates](templates/)
 
