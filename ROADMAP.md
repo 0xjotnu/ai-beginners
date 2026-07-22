@@ -13,8 +13,8 @@ This is the planned expansion from a focused prompting guide into a practical AI
 
 ## Next modules
 
-- [ ] **04 · AI coding** — add more language-specific exercises and mini-projects
-- [ ] **05 · Agents and MCP** — agents, tools, workflows, permissions, and human approval
+- [x] **04 · AI coding** — add more language-specific exercises and mini-projects
+- [x] On Progress.. **05 · Agents and MCP** — agents, tools, workflows, permissions, and human approval
 - [ ] **06 · Images, video, and audio** — prompt-to-media workflows, iteration, rights, and disclosure
 - [ ] **07 · Automation** — triggers, actions, error handling, secrets, and approval gates
 - [ ] **08 · Projects** — a chatbot, research brief, portfolio site, personal automation, and small agent
