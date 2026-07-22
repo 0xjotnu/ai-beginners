@@ -9,10 +9,11 @@ This is the planned expansion from a focused prompting guide into a practical AI
 - [x] Add a framework for choosing AI tools
 - [x] Preserve and index the original prompting lessons and examples
 - [x] Add verification-focused prompting guidance and a reusable prompt template
+- [x] Start **04 · AI coding** with a safe, practical beginner pathway
 
 ## Next modules
 
-- [ ] **04 · AI coding** — editor assistants, repository context, testing, debugging, and safe code review
+- [ ] **04 · AI coding** — add more language-specific exercises and mini-projects
 - [ ] **05 · Agents and MCP** — agents, tools, workflows, permissions, and human approval
 - [ ] **06 · Images, video, and audio** — prompt-to-media workflows, iteration, rights, and disclosure
 - [ ] **07 · Automation** — triggers, actions, error handling, secrets, and approval gates

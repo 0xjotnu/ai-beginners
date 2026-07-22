@@ -42,7 +42,7 @@ The original Claude prompting guide is preserved as the first complete module. I
 | 01 | [🧠 AI Foundations](01-ai-foundations/README.md) | What AI and LLMs do, where they fail, and how to use them responsibly | 🟢 Started |
 | 02 | [🧰 AI Tools](02-ai-tools/README.md) | How to choose chat, research, coding, and creative tools | 🟢 Started |
 | 03 | [✍️ Prompting](03-prompt-engineering/README.md) | Clear instructions, examples, structure, checking, and iteration | ✅ Ready |
-| 04 | 💻 AI Coding | Coding assistants, testing, debugging, and version control | 🔜 Planned |
+| 04 | [💻 AI Coding](04-ai-coding/README.md) | Coding assistants, testing, debugging, and version control | 🟢 Started |
 | 05 | 🤖 Agents & MCP | Tools, workflows, memory, and human oversight | 🔜 Planned |
 | 06 | 🎨 Image, Video & Audio | Creating, iterating on, and evaluating AI media | 🔜 Planned |
 | 07 | ⚡ Automation | Connecting repeatable work safely | 🔜 Planned |
@@ -64,6 +64,7 @@ The original Claude prompting guide is preserved as the first complete module. I
 🧠 01-ai-foundations/       Core concepts and responsible use
 🧰 02-ai-tools/             Choosing AI tools for the job
 ✍️ 03-prompt-engineering/   Prompting pathway and practical patterns
+💻 04-ai-coding/             Build, test, debug, and review with AI
 📚 docs/                    Original in-depth prompting lessons
 🧪 examples/                Reusable before/after prompt examples
 📋 templates/               Starting points for prompts and projects
