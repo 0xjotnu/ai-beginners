@@ -82,6 +82,7 @@ The original Claude prompting guide is preserved as the first complete module. I
 ## 🤝 Contribute
 
 Have a clear lesson, a realistic exercise, or a before/after prompt example to share? Great contributions are beginner-friendly, useful across tools where possible, and honest about limitations or safety concerns.
+**Kickstart your github contributions with this git**
 
 See [the roadmap](ROADMAP.md) for the highest-value next additions.
 
